@@ -88,4 +88,4 @@ The system improves accuracy, saves time, and provides professional-quality repo
 
 Through this project, I enhanced my practical knowledge of working with real datasets, generating visual insights, and creating automated documentation systems using Python.
 
-# output:
+# output: [task2_output.pdf](https://github.com/user-attachments/files/25421539/task2_output.pdf)
